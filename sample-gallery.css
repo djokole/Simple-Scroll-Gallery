@@ -203,12 +203,12 @@ ul li {
     display: inline-block; 
     max-height: 0;
     overflow: hidden;
-    transition: all 0.3s ease-in;    
+    transition: all 0.3s ease-in;
 }
 
 .gallery:hover span {
     max-height: 100px;
-    transition: all 0.3s ease-in;    
+    transition: all 0.3s ease-in 2.3s;
     padding-bottom: 3em;    
     padding-top: 1.3em;    
 }
